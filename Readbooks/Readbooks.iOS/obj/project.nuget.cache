@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vE4/RhWFa4qCSmFtQ+idphfFaJZlcCBmYoHx4ptnxfa8v9QHIuIrtGb2FiT7YxdnrLtLcaRxkbhRDwKTUcqFtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kmudiki\\source\\repos\\Readbooks\\Readbooks\\Readbooks.iOS\\Readbooks.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmudiki\\.nuget\\packages\\microsoft.appcenter\\3.4.3\\microsoft.appcenter.3.4.3.nupkg.sha512",
+    "C:\\Users\\kmudiki\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.3\\microsoft.appcenter.analytics.3.4.3.nupkg.sha512",
+    "C:\\Users\\kmudiki\\.nuget\\packages\\microsoft.appcenter.crashes\\3.4.3\\microsoft.appcenter.crashes.3.4.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

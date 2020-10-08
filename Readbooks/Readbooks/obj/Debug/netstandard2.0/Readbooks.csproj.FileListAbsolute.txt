@@ -1,0 +1,12 @@
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\bin\Debug\netstandard2.0\Readbooks.deps.json
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\bin\Debug\netstandard2.0\Readbooks.dll
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\Readbooks.csprojAssemblyReference.cache
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\Readbooks.AssemblyInfoInputs.cache
+C:\Users\kmudiki\source\repos\Readbooks\Readbooks\Readbooks\obj\Debug\netstandard2.0\Readbooks.AssemblyInfo.cs

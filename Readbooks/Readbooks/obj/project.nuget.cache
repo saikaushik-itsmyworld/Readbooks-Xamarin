@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BT37Ui44H/n+pN/Ma6zxBUu7uH0sKi0ipa39SocTQUywRov92zxrXtJjzkRtpVq/NZWOPF2O3N+t0GcCQ2Cf+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kmudiki\\source\\repos\\Readbooks\\Readbooks\\Readbooks\\Readbooks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmudiki\\.nuget\\packages\\microsoft.appcenter\\3.4.3\\microsoft.appcenter.3.4.3.nupkg.sha512",
+    "C:\\Users\\kmudiki\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.3\\microsoft.appcenter.analytics.3.4.3.nupkg.sha512",
+    "C:\\Users\\kmudiki\\.nuget\\packages\\microsoft.appcenter.crashes\\3.4.3\\microsoft.appcenter.crashes.3.4.3.nupkg.sha512",
+    "C:\\Users\\kmudiki\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kmudiki\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kmudiki\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
